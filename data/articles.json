@@ -1,0 +1,43 @@
+
+[
+    {
+        "id": 1,
+        "title": "Teknik Pertanian Modern untuk Meningkatkan Hasil Panen",
+        "author": "Budi Santoso",
+        "date": "15 Oktober 2023",
+        "image": "http://static.photos/agriculture/640x360/1",
+        "content": "Pertanian modern telah mengalami banyak perkembangan dalam beberapa tahun terakhir. Dengan menggunakan teknologi terkini, petani dapat meningkatkan hasil panen secara signifikan.\n\nSalah satu teknik yang populer adalah hidroponik, yang memungkinkan tanaman tumbuh tanpa tanah. Metode ini sangat efisien dalam penggunaan air dan dapat dilakukan di lahan terbatas.\n\nSelain itu, penggunaan drone untuk memantau kesehatan tanaman juga semakin populer. Drone dapat membantu petani mengidentifikasi area yang membutuhkan perhatian khusus."
+    },
+    {
+        "id": 2,
+        "title": "Panduan Memulai Peternakan Ayam Kampung",
+        "author": "Siti Rahayu",
+        "date": "10 Oktober 2023",
+        "image": "http://static.photos/agriculture/640x360/2",
+        "content": "Peternakan ayam kampung bisa menjadi bisnis yang menguntungkan jika dikelola dengan baik. Berikut adalah beberapa tips untuk memulai:\n\n1. Pilih bibit ayam yang berkualitas dari peternak terpercaya.\n2. Siapkan kandang yang memadai dengan ventilasi yang baik.\n3. Berikan pakan yang bergizi dan air bersih yang cukup.\n4. Lakukan vaksinasi secara teratur untuk mencegah penyakit.\n\nDengan perawatan yang tepat, ayam kampung dapat menghasilkan telur dan daging yang berkualitas tinggi."
+    },
+    {
+        "id": 3,
+        "title": "Manfaat Pupuk Organik untuk Tanah dan Tanaman",
+        "author": "Agus Setiawan",
+        "date": "5 Oktober 2023",
+        "image": "http://static.photos/agriculture/640x360/3",
+        "content": "Pupuk organik memiliki banyak manfaat dibandingkan pupuk kimia. Berikut beberapa keunggulannya:\n\n- Meningkatkan kesuburan tanah dalam jangka panjang\n- Memperbaiki struktur tanah\n- Mengandung mikroorganisme yang bermanfaat\n- Ramah lingkungan\n\nAnda dapat membuat pupuk organik sendiri dari kotoran hewan, sisa tanaman, atau limbah dapur. Proses pembuatannya relatif mudah dan biayanya murah."
+    },
+    {
+        "id": 4,
+        "title": "Cara Mengatasi Hama pada Tanaman Padi",
+        "author": "Dewi Lestari",
+        "date": "28 September 2023",
+        "image": "http://static.photos/agriculture/640x360/4",
+        "content": "Hama merupakan salah satu tantangan utama dalam budidaya padi. Beberapa hama yang sering menyerang adalah:\n\n1. Wereng coklat\n2. Penggerek batang\n3. Walang sangit\n\nUntuk mengatasi hama ini, Anda dapat menggunakan beberapa metode:\n\n- Pengendalian secara biologis dengan memanfaatkan musuh alami\n- Rotasi tanaman untuk memutus siklus hidup hama\n- Penggunaan pestisida alami yang ramah lingkungan\n\nPencegahan sejak dini sangat penting untuk mengurangi kerugian akibat serangan hama."
+    },
+    {
+        "id": 5,
+        "title": "Budidaya Ikan Lele di Kolam Terpal untuk Pemula",
+        "author": "Rudi Hermawan",
+        "date": "20 September 2023",
+        "image": "http://static.photos/agriculture/640x360/5",
+        "content": "Budidaya ikan lele di kolam terpal merupakan bisnis yang menjanjikan dengan modal relatif kecil. Berikut langkah-langkahnya:\n\n1. Siapkan kolam terpal dengan ukuran sesuai kebutuhan\n2. Isi kolam dengan air dan diamkan selama 3-5 hari sebelum tebar benih\n3. Tebar benih lele dengan kepadatan yang sesuai\n4. Beri pakan secara teratur 2-3 kali sehari\n5. Lakukan penggantian air secara berkala\n\nDengan perawatan yang baik, lele dapat dipanen dalam waktu 2-3 bulan."
+    }
+]
