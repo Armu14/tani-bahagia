@@ -55,45 +55,45 @@
     },
     {
         "id": 10,
-        "title": "Ayam Pakoy 3 Bulan",
-        "description": "Perkembangan Pakoy Betina Umur 3 Bulan, Anakan Trah Venom c3 dari Thailan",
-        "image": "assets/img/img2.jpeg"
-    },
-    {
-        "id": 11,
-        "title": "Ayam Pakoy Petarung",
-        "description": "Ayam anakan Juara Trah Hamza pemenang Juara 1",
-        "image": "assets/img/img3.jpeg"
-    },
-    {
-        "id": 12,
-        "title": "Budidaya Cupang",
-        "description": "Anakan Burayak Cupang umur 4 hari",
-        "image": "assets/img/img4.jpeg"
-    },
-    {
-        "id": 13,
-        "title": "Ular Dadung",
-        "description": "Penangkapan Ular saat malam hari didesa ARMU Farm",
-        "image": "assets/img/img5.jpeg"
-    },
-    {
-        "id": 14,
-        "title": "Pembelian bibit azola",
-        "description": "Area pembibitan tanaman Azola SukaBumi",
-        "image": "assets/img/img6.jpeg"
-    },
-    {
-        "id": 15,
         "title": "Pengukuran Kadar kedalam",
         "description": "Melakukan Cek Lapangan Setiap mendatangi rumah mentor",
         "image": "assets/img/img7.jpeg"
     },
     {
-        "id": 16,
+        "id": 11,
         "title": "Budidaya Azola",
         "description": "Hasil Tabur Benih di kolam Baru",
         "image": "assets/img/img8.jpeg"
+    },
+    {
+        "id": 12,
+        "title": "Cupang Super White HM A1",
+        "description": "Penguatan Mental untuk Ikan yang akan dibudidaya",
+        "image": "assets/img/img10.jpeg"
+    },
+    {
+        "id": 13,
+        "title": "Kolam Budidaya",
+        "description": "Area pembibitan tanaman Azola dasar",
+        "image": "assets/img/img12.jpeg"
+    },
+    {
+        "id": 14,
+        "title": "Cupang HM Vampir",
+        "description": "Penguatan Mental untuk Ikan yang akan dibudidaya",
+        "image": "assets/img/img14.jpeg"
+    },
+    {
+        "id": 15,
+        "title": "Ayah dari Simalakama",
+        "description": "Biang yang pernah menjuarai Tarung Ayam",
+        "image": "assets/img/img16.jpeg"
+    },
+    {
+        "id": 16,
+        "title": "Ayam Pakoy Petarung",
+        "description": "Ayam anakan Juara Trah Hamza pemenang Juara 1",
+        "image": "assets/img/img3.jpeg"
     },
     {
         "id": 17,
@@ -103,21 +103,21 @@
     },
     {
         "id": 18,
-        "title": "Cupang Super White HM A1",
-        "description": "Penguatan Mental untuk Ikan yang akan dibudidaya",
-        "image": "assets/img/img10.jpeg"
+        "title": "Budidaya Cupang",
+        "description": "Anakan Burayak Cupang umur 4 hari",
+        "image": "assets/img/img4.jpeg"
     },
     {
         "id": 19,
-        "title": "Bukti Hadir",
-        "description": "Selalu dokumentasi hasil kerja keras kita berdua",
-        "image": "assets/img/img11.jpeg"
+        "title": "Fermentasi Ketapang",
+        "description": "Budidaya Ketapang untuk Fermentasi dan dijual",
+        "image": "assets/img/img17.jpeg"
     },
     {
         "id": 20,
-        "title": "Kolam Budidaya",
-        "description": "Area pembibitan tanaman Azola dasar",
-        "image": "assets/img/img12.jpeg"
+        "title": "Ular Dadung",
+        "description": "Penangkapan Ular saat malam hari didesa ARMU Farm",
+        "image": "assets/img/img5.jpeg"
     },
     {
         "id": 21,
@@ -127,9 +127,9 @@
     },
     {
         "id": 22,
-        "title": "Cupang HM Vampir",
-        "description": "Penguatan Mental untuk Ikan yang akan dibudidaya",
-        "image": "assets/img/img14.jpeg"
+        "title": "Ayam Pakoy 3 Bulan",
+        "description": "Perkembangan Pakoy Betina Umur 3 Bulan, Anakan Trah Venom c3 dari Thailan",
+        "image": "assets/img/img2.jpeg"
     },
     {
         "id": 23,
@@ -139,21 +139,21 @@
     },
     {
         "id": 24,
-        "title": "Ayah dari Simalakama",
-        "description": "Biang yang pernah menjuarai Tarung Ayam",
-        "image": "assets/img/img16.jpeg"
-    },
-    {
-        "id": 25,
-        "title": "Fermentasi Ketapang",
-        "description": "Budidaya Ketapang untuk Fermentasi dan dijual",
-        "image": "assets/img/img17.jpeg"
-    },
-    {
-        "id": 26,
         "title": "Hasil Budidaya Ayam",
         "description": "Area pembesaran Ayam umur 1 bulan",
         "image": "assets/img/img18.jpeg"
+    },
+    {
+        "id": 25,
+        "title": "Bukti Hadir",
+        "description": "Selalu dokumentasi hasil kerja keras kita berdua",
+        "image": "assets/img/img11.jpeg"
+    },
+    {
+        "id": 26,
+        "title": "Pembelian bibit azola",
+        "description": "Area pembibitan tanaman Azola SukaBumi",
+        "image": "assets/img/img6.jpeg"
     },
     {
         "id": 27,
